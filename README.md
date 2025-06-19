@@ -12,7 +12,6 @@
 
 _Membangun masa depan pendidikan dengan teknologi terdepan_
 
-[📚 Demo](#demo) • [🚀 Instalasi](#-instalasi-dan-setup) • [📖 Dokumentasi](#-dokumentasi-tambahan) • [🤝 Kontribusi](#-kontribusi)
 
 </div>
 
