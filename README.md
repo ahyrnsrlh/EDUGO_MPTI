@@ -29,14 +29,8 @@ _Membangun masa depan pendidikan dengan teknologi terdepan_
 -   [🚀 Instalasi](#-instalasi-dan-setup)
 -   [👥 Akun Default](#-default-user-accounts)
 -   [📁 Struktur Proyek](#-struktur-proyek)
--   [🎨 Kustomisasi SMK](#-kustomisasi-smk)
 -   [🔧 Fitur Teknis](#-fitur-teknis)
--   [📖 Dokumentasi Tambahan](#-dokumentasi-tambahan)
--   [🐛 Troubleshooting](#-troubleshooting)
--   [🤝 Kontribusi](#-kontribusi)
--   [📄 Lisensi](#-lisensi)
--   [📞 Kontak](#-kontak)
-
+-   [📈 Status Pengembangan & Roadmap](#-Status-Pengembangan-&-Roadmap)
 ---
 
 ## 🎯 Tentang EduGo
