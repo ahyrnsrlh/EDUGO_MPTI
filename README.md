@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![EduGo Logo](https://img.shields.io/badge/EduGo-Learning%20Platform-blue?style=for-the-badge&logo=graduation-cap)
